@@ -1,2 +1,1 @@
-Her e
-_
+String=Hello
